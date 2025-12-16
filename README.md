@@ -1,4 +1,4 @@
-# AI & Machine Learning Course Projects
+# AI Course Projects
 
 This repository contains implementations for two distinct Artificial Intelligence assignments: a high-performance **Game AI agent for Reversed Reversi** and a **Data Mining pipeline for Census Income classification**.
 
